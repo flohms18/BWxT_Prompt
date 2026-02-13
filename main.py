@@ -1,6 +1,5 @@
-from dotenv import load_dotenv
-load_dotenv()
+def hello():
+    print('james')
 
-from leo_prompt_optimizer import {
-    
-}
+hello()
+
