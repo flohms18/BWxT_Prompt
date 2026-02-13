@@ -1,17 +1,11 @@
-venv/
-.venv/
-.env/
+myenv/
+
 .env
-
-
-__pycache__/
 *.pyc
 *.pyo
 *.pyd
 
 
-.ipynb_checkpoints/
-
-
+.ipynb_checkpoints
 .vscode/
 .idea/
